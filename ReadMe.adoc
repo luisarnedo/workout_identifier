@@ -4,6 +4,6 @@
 :Revision: version#
 :License: Public Domain
 
-= Project: {TFM Luis Arnedo}
+= TFM Luis Arnedo
 
 Este repositorio contiene el código fuente del proyecto ´Cuantificacion de actividad física mediante el uso de sensores inercaiales y machine learning
